@@ -4,7 +4,7 @@
 ### Free shadowsocksr account:
 server: 45.77.118.131
 location: Miami
-VPS: vultr www.vultr.com
+VPS: [Vultr](www.vultr.com)
 
 
 
