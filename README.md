@@ -22,7 +22,44 @@ chmod +x shadowsocksR.sh
 ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 
 ```
-6. Follow instructions to set up your server. Values I used: 
+or
+```
+CentOS/Debian/Ubuntu ShadowsocksR单/多端口一键管理脚本：
+
+yum -y install wget
+
+wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+备用下载地址：
+
+yum -y install wget
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+```
+6. Follow instructions to set up your server. Values I used:
+```
+port: 8989
+encrypt: aes-256-cfb
+protocol: auth_sha1_v4
+obfs: plain
+```
+7. Reboot server
+8. If needed, you can use google's traffic control algorithm-'bbr' to improve your speed. Copy and paste these lines and code in your putty, xshell or terminal:
+```
+yum -y install wget
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+```
+9. Finally you can download shadowsocksR client to surf freely!
+Refer [Windows](), [Mac]() or [Linux]()
+
+
 
 ### Free shadowsocksr account:
 server: 45.77.118.131
