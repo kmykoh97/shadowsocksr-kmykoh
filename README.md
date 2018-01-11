@@ -59,7 +59,7 @@ chmod +x bbr.sh
 9. Finally you can download shadowsocksR client to surf freely!
 Refer [Windows](), [Mac]() or [Linux]()
 
-
+Happy surfing XD
 
 ### Free shadowsocksr account:
 server: 45.77.118.131
