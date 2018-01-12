@@ -71,7 +71,7 @@ obfs: tls1.2_ticket_auth
 
 server ip: 45.77.118.131
 port: 8989
-password: [*Please consult me*](kmykoh97@gmail.com)
+password: [*Please consult me*](https://github.com/kmykoh97)
 encrypt: aes-256-cfb
 protocol: auth_sha1_v4
 obfs: plain
