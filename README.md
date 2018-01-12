@@ -57,12 +57,24 @@ chmod +x bbr.sh
 
 ```
 9. Finally you can download shadowsocksR client to surf freely!
-Refer [Windows](), [Mac]() or [Linux]()
+Refer [Windows](https://github.com/kmykoh97/shadowsocksr-kmykoh/blob/master/windows.md),  [Mac](https://github.com/kmykoh97/shadowsocksr-kmykoh/blob/master/mac.md) or [Linux](https://github.com/kmykoh97/shadowsocksr-kmykoh/blob/master/linux.md)
 
 Happy surfing XD
 
-### Free shadowsocksr account:
-server: 45.77.118.131
+### Free shadowsocksr account:(updated 12.1.2018)
+server ip: 45.77.79.68
+port: 2345
+password: FaLunDaFaHao@513
+encrypt: aes-256-cfb
+protocol: auth_sha1_v4
+obfs: tls1.2_ticket_auth
+
+server ip: 45.77.118.131
+port: 8989
+password: [*Please consult me*](kmykoh97@gmail.com)
+encrypt: aes-256-cfb
+protocol: auth_sha1_v4
+obfs: plain
 location: Miami
 VPS: [Vultr](www.vultr.com)
 
