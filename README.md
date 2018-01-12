@@ -1,4 +1,6 @@
-# shadowsocksR-refined version by kmykoh97
+
+# shadowsocksR-refined version guide by kmykoh97
+## 看不懂英文的人可以[私信](https://github.com/kmykoh97)问我
 ## Guide to break China Firewall using VPS
 ![China firewall](images/chinaFirewall.jpeg)
 
@@ -83,3 +85,5 @@ VPS: [Vultr](www.vultr.com)
 please use them wisely
 
 by kmykoh97
+
+## 不会英文的人可以[私信](https://github.com/kmykoh97)问我
