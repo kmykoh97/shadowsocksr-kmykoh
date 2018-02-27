@@ -64,12 +64,7 @@ Refer [Windows](https://github.com/kmykoh97/shadowsocksr-kmykoh/blob/master/wind
 Happy surfing XD
 
 ### Free shadowsocksr account:(updated 26.2.2018)
-<!-- server ip: 45.77.79.68
-port: 2345
-password: FaLunDaFaHao@513
-encrypt: aes-256-cfb
-protocol: auth_sha1_v4
-obfs: tls1.2_ticket_auth -->
+
 
 server ip: 45.32.166.233
 port: 8989
